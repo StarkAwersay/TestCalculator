@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-R3GIJUF",
+    "children" : [ {
+      "name" : "14264@DESKTOP-R3GIJUF.main(1)",
+      "children" : [ {
+        "name" : "Test1",
+        "uid" : "722af930acef939f",
+        "parentUid" : "732e5ec4d659ee525b8fc71bfd703348",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644759130918,
+          "stop" : 1644759134180,
+          "duration" : 3262
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test3",
+        "uid" : "cc3141c6bacc1109",
+        "parentUid" : "732e5ec4d659ee525b8fc71bfd703348",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644759136551,
+          "stop" : 1644759138116,
+          "duration" : 1565
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test2",
+        "uid" : "ee415ffcaf776625",
+        "parentUid" : "732e5ec4d659ee525b8fc71bfd703348",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644759134348,
+          "stop" : 1644759136523,
+          "duration" : 2175
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "732e5ec4d659ee525b8fc71bfd703348"
+    } ],
+    "uid" : "ddbd2e7fe52b265dfc4d18458fee09cd"
+  } ]
+}

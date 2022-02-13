@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 13 17:32:10 GMT+04:00 2022","Sun Feb 13 17:32:14 GMT+04:00 2022","3262","Default Suite","Prog","tests.TestCalculator","tests.TestCalculator","Test1","Test1",""
+"passed","Sun Feb 13 17:32:16 GMT+04:00 2022","Sun Feb 13 17:32:18 GMT+04:00 2022","1565","Default Suite","Prog","tests.TestCalculator","tests.TestCalculator","Test3","Test3",""
+"passed","Sun Feb 13 17:32:14 GMT+04:00 2022","Sun Feb 13 17:32:16 GMT+04:00 2022","2175","Default Suite","Prog","tests.TestCalculator","tests.TestCalculator","Test2","Test2",""
