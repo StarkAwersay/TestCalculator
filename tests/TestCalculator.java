@@ -12,8 +12,7 @@ import org.testng.annotations.Test;
 
 import static Constants.constant.Urls.*;
 
-
-
+// TestCalculator ...
 public class TestCalculator {
     WebDriver driver = getChromeDriver.getChromeDriver();
     searchPage sp = new searchPage(driver);
