@@ -15,13 +15,15 @@ import static Constants.constant.Urls.*;
 
 
 public class TestCalculator {
-    WebDriver driver = getChromeDriver.getChromeDriver();
-    searchPage sp = new searchPage(driver);
+    private WebDriver driver;
+    private searchPage sp;
 
 
     @BeforeTest
     public void BeforeTest() {
+        driver = getChromeDriver.getChromeDriver();
         driver.manage().window().maximize();
+        sp = new searchPage(driver);
     }
 
 
